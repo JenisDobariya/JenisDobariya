@@ -19,7 +19,7 @@ I'm a full stack developer...
 
 
 <!--   ![18a4949fc9c8067172d3b96e302e7097](https://user-images.githubusercontent.com/101552010/191468644-3b046c51-7171-4d11-a0db-a2c96b50bf90.gif) -->
- <img src="https://user-images.githubusercontent.com/101552010/191468644-3b046c51-7171-4d11-a0db-a2c96b50bf90.gif" alt="photoshop" width="600" height="500"/>
+ <img src="https://user-images.githubusercontent.com/101552010/191468644-3b046c51-7171-4d11-a0db-a2c96b50bf90.gif" alt="photoshop" width="600" height="400"/>
 
  
 ## 🛠 Skills
@@ -33,7 +33,11 @@ I'm a full stack developer...
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 
-I've been practicing programming for over 1 year and I'm always learning and always improving! My goals are to help people achieve their dreams and make software that people find useful.
+## Description
+
+- I've been practicing programming for over 1 year and I'm always learning and always improving! My goals are to help people achieve their dreams and make software that people find useful.
+
+
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jenish0001&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
