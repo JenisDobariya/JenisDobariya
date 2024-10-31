@@ -2,16 +2,16 @@
 ![68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d37413457796e774c734d772f58624270435847386648492f41414141414141414d74342f754f613162704c736b5967727747626c6c6853753253446a5f4d69673853584a51434c63424741735948512f7](https://user-images.githubusercontent.com/101552010/191468106-0221377a-0c01-4472-bf67-3219b011cd1f.gif)
 
 <h1 align="center">Hi 👋, I'm Jenish</h1>
-<h3 align="center">Android developer from India</h3>
+<h3 align="center">Android developer from India, Now in Dubai.</h3>
 
 ## 🚀 About Me
-I'm a full stack developer...
+I'm an Android Application developer...
 
-- 🔭 I’m currently working on E-Commerce App
+##- 🔭 I’m currently working on E-Commerce App
 
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Data Scientist 
 
-- 👯 I’m looking to collaborate on google
+- 👯 I’m looking to collaborate on Google
 
 - 🤝 I’m looking for help with friends
 
