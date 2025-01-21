@@ -5,11 +5,11 @@
 <!-- <h3 align="center">Android developer from India, Now in Dubai.</h3> -->
 
 ## 🚀 About Me
-I'm an Android Application developer...
+<!-- I'm an Android Application developer... -->
 
-- 🌱 I’m currently learning Data Scientist 
+- 🌱 I’m currently learning Data Science
 
-- 👯 I’m looking to collaborate on Google
+<!-- - 👯 I’m looking to collaborate on Google -->
 
 - 🤝 I’m looking for help with friends
 
