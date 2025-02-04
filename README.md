@@ -1,4 +1,4 @@
-https://miro.medium.com/v2/resize:fit:828/format:webp/1*U3WRRwLx3zeDkHmIVGLJdw.gif
+
 <!--
 (https://media.licdn.com/dms/image/v2/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1616667695311?e=2147483647&v=beta&t=kTwpM9lkrrnW7rxZG1tjv8zzaaCC27Kss09MVDh-49M.gif)
 -->
