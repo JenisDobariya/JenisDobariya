@@ -28,7 +28,7 @@ I believe in continuous learning, problem-solving, and collaboration. I’m exci
 <!--   ![18a4949fc9c8067172d3b96e302e7097](https://user-images.githubusercontent.com/101552010/191468644-3b046c51-7171-4d11-a0db-a2c96b50bf90.gif) -->
  <img src="https://user-images.githubusercontent.com/101552010/191468644-3b046c51-7171-4d11-a0db-a2c96b50bf90.gif" alt="photoshop" width="600" height="400"/>
 
-![photoshop](https://user-images.githubusercontent.com/101552010/191468644-3b046c51-7171-4d11-a0db-a2c96b50bf90.gif)
+<!-- ![photoshop](https://user-images.githubusercontent.com/101552010/191468644-3b046c51-7171-4d11-a0db-a2c96b50bf90.gif) -->
 
 ## 🛠 Skills
  <h3 align="left">Languages and Tools:</h3>
