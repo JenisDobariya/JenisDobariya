@@ -8,15 +8,17 @@
 <!-- <h3 align="center">Android developer from India, Now in Dubai.</h3> -->
 
 ## 🚀 About Me
-<!-- I'm an Android Application developer... -->
+<!-- I'm an Android Application developer...
 
 - 🌱 I’m currently learning Data Science
-
+  -->
 <!-- - 👯 I’m looking to collaborate on Google -->
 
-- 🤝 I’m looking for help with friends
+<!-- - 🤝 I’m looking for help from friends -->
 
-- ⚡ Fun fact I think I am funny
+<!-- - ⚡ Fun fact, I think I am funny -->
+
+
 
 
 <!--   ![18a4949fc9c8067172d3b96e302e7097](https://user-images.githubusercontent.com/101552010/191468644-3b046c51-7171-4d11-a0db-a2c96b50bf90.gif) -->
@@ -27,7 +29,6 @@
  <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
-
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
@@ -36,7 +37,7 @@
 
 ## Description
 
-- I've been practicing programming for over 1 year and I'm always learning and always improving! My goals are to help people achieve their dreams and make software that people find useful.
+I've been practicing programming for over three years, and I'm always learning and improving! My goals are to help people achieve their dreams and make useful software.
 
 
 
