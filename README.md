@@ -66,4 +66,9 @@ I've been practicing programming for over three years, and I'm always learning a
  
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jenisdobariya&layout=compact)
 
-	
+
+
+ <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/jenisdobariya/count.svg" />
+</p>
