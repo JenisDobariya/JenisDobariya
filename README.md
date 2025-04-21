@@ -1,10 +1,9 @@
 
-(https://media.licdn.com/dms/image/v2/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1616667695311?e=2147483647&v=beta&t=kTwpM9lkrrnW7rxZG1tjv8zzaaCC27Kss09MVDh-49M.gif)
 <!-- [68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d37413457796e774c734d772f58624270435847386648492f41414141414141414d74342f754f613162704c736b5967727747626c6c6853753253446a5f4d69673853584a51434c63424741735948512f7](https://user-images.githubusercontent.com/101552010/191468106-0221377a-0c01-4472-bf67-3219b011cd1f.gif)  This is a android developer gif-->
 
 <h1 align="center">Hi 👋, I'm Jenis</h1>
 
-<h2 align="center">Hi 👋, I'm Data Scientist </h2>
+<h2 align="left">I'm Data Scientist </h2>
 
 <!-- <h3 align="center">Android developer from India, Now in Dubai.</h3> -->
 
@@ -29,8 +28,8 @@ I believe in continuous learning, problem-solving, and collaboration. I’m exci
 <!--   ![18a4949fc9c8067172d3b96e302e7097](https://user-images.githubusercontent.com/101552010/191468644-3b046c51-7171-4d11-a0db-a2c96b50bf90.gif) -->
  <img src="https://user-images.githubusercontent.com/101552010/191468644-3b046c51-7171-4d11-a0db-a2c96b50bf90.gif" alt="photoshop" width="600" height="400"/>
 
+![photoshop](https://user-images.githubusercontent.com/101552010/191468644-3b046c51-7171-4d11-a0db-a2c96b50bf90.gif)
 
- 
 ## 🛠 Skills
  <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
