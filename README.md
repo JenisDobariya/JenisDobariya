@@ -5,6 +5,7 @@
 <!-- [68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d37413457796e774c734d772f58624270435847386648492f41414141414141414d74342f754f613162704c736b5967727747626c6c6853753253446a5f4d69673853584a51434c63424741735948512f7](https://user-images.githubusercontent.com/101552010/191468106-0221377a-0c01-4472-bf67-3219b011cd1f.gif)  This is a android developer gif-->
 
 <h1 align="center">Hi 👋, I'm Jenis</h1>
+
 <!-- <h3 align="center">Android developer from India, Now in Dubai.</h3> -->
 
 ## 🚀 About Me
@@ -34,7 +35,7 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
-
+ 
 ## Description
 
 I've been practicing programming for over three years, and I'm always learning and improving! My goals are to help people achieve their dreams and make useful software.
@@ -42,10 +43,10 @@ I've been practicing programming for over three years, and I'm always learning a
 
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jenish0001&theme=light&hide_border=true&date_format=j%2Fn%5B%2FY%5D)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jenisdobariya&theme=light&hide_border=true&date_format=j%2Fn%5B%2FY%5D)
  
- ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=jenish0001&show_icons=true)
+ ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=jenisdobariya&show_icons=true)
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jenish0001&layout=compact)
-	
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jenisdobariya&layout=compact)
+
 	
