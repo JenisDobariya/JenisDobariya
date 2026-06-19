@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Jenis</h1>
 
-<h2 align="left">I'm Data Scientist </h2>
+<h2 align="left">I'm AI Engineer & Data Scientist </h2>
 
 <!-- <h3 align="center">Android developer from India, Now in Dubai.</h3> -->
 
